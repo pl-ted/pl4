@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #1e4356;
+  background: white;
 }
 #header.header-transparent {
   background: white;
@@ -470,7 +470,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #cta .cta-newsletter {
   padding: 0 0 0 20px;
   background: white;
-  height: 30vh;
+  height: 12vh;
 }
 #cta .cta-newsletter h4 {
   font-size: 24px;
