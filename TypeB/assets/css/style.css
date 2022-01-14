@@ -702,7 +702,7 @@ section {
   background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/call-to-action-bg.jpg) fixed center center;
   background-size: cover;
   padding: 30px 0;
-  height: 32vh;
+  height: 26vh;
 }
 #call-to-action h3 {
   color: #fff;
