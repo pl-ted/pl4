@@ -329,7 +329,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 78vh;
+  height: 68vh;
   background: #000;
   overflow: hidden;
   position: relative;
@@ -702,7 +702,7 @@ section {
   background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/call-to-action-bg.jpg) fixed center center;
   background-size: cover;
   padding: 30px 0;
-  height: 30vh;
+  height: 32vh;
 }
 #call-to-action h3 {
   color: #fff;
