@@ -3,8 +3,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@font-face {
+    font-family: HelveticaNeueLTPro-Roman;
+    src: url("https://pl-ted.github.io/pl4/h/assets/HelveticaNeueLTPro-Roman.otf") format("opentype");
+}
+
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "HelveticaNeueLTPro-Roman", sans-serif;
   color: #444444;
 }
 
@@ -19,7 +25,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "HelveticaNeueLTPro-Roman", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -417,7 +423,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #428bca;
 }
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: "HelveticaNeueLTPro-Roman", sans-serif;
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 1px;
@@ -654,7 +660,7 @@ section {
 .counts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "HelveticaNeueLTPro-Roman", sans-serif;
   font-size: 15px;
   font-weight: 500;
 }
@@ -749,7 +755,7 @@ section {
   color: white;
 }
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "HelveticaNeueLTPro-Roman", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1179,7 +1185,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "HelveticaNeueLTPro-Roman", sans-serif;
   color: grey;
 }
 #footer .footer-top .social-links a {
